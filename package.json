@@ -1,0 +1,7 @@
+{
+  "name": "Rana_CWC_Delpoyment",
+  "private": true,
+  "scripts": {
+    "start": "cd server && npm install && node server.js"
+  }
+}
